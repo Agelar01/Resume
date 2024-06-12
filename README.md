@@ -1,2 +1,2 @@
 # Resume
-CV
+CV hecho en latex
